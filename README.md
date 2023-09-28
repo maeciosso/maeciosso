@@ -1,8 +1,9 @@
+english:
 - 👋 Hi, I’m @maeciosso
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning how to make an web site
 
-
+português:
 - 👋 Olá, sou @maeciosso
 - 👀 Estou interessado em desenvolvimento web
 - 🌱 Atualmente estou aprendendo a fazer sites
